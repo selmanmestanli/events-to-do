@@ -4,6 +4,7 @@
     <h4>{{ event.title }}</h4>
     <span>{{ event.attendees.length }} attending</span>
   </div>
+      <BaseIcon name="users" />
 </template>
 
 <script>
