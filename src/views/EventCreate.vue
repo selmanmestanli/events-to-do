@@ -48,3 +48,8 @@
     </form>
   </div>
 </template>
+<style lang="scss" scoped>
+.field {
+  margin-bottom: 24px;
+}
+</style>
